@@ -32,6 +32,6 @@ Planned Features:
 | Backend    | [Laravel 12](https://laravel.com/) |
 | Frontend   | [Blade](https://laravel.com/docs/blade) + [Tailwind CSS](https://tailwindcss.com) |
 | Auth       | [Laravel Breeze](https://laravel.com/docs/starter-kits#laravel-breeze) |
-| Database   | MySQL/PostgreSQL               |
+| Database   | MySQL               |
 | Versioning | Git & GitHub                  |
 
